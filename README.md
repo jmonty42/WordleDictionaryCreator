@@ -37,3 +37,7 @@ As an example, this is the dictionary entry for the word "books" from my data se
 There is also one special entry in this dictionary under the key of "FIRST_WORD" that represents the beginning of the word frequency list.
 
 After this dictionary is generated, it is pickled to disk so that it doesn't have to be generated every time the solver (the second part of my solution listed above) runs.
+
+## Solver
+
+For the second part of my solution, see my [WordleSolver](https://github.com/jmonty42/WordleSolver) repo.
